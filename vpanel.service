@@ -1,0 +1,9 @@
+[Unit]
+Description=VPanel Sanaei Service
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /usr/local/bin/vpanel.sh
+
+[Install]
+WantedBy=default.target
