@@ -12,10 +12,11 @@ Write based on Laravel & PHP. For modern "Sanaei" users.
 ## Manual Install
 
 1. Clone this repo or download latest release
-2. Copy files to your Sanaei server
+2. Copy files to `/var/www` on Sanaei server
 3. Run `sudo bash install.sh`
 4. Enter **IP Address**
-5. Check server in `ipaddress:8009` is alive!
+5. Enter `yes` to run **Composer Installer**
+6. Check server in `ipaddress:8009` is alive!
 
 ## License
 
