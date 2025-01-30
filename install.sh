@@ -35,6 +35,7 @@ sudo cp vpanel.sh /usr/local/bin
 # Install Files
 cd /var/www/api
 php /usr/local/bin/composer install
+php artisan key:generate
 
 # Firewall Rule
 ufw allow 8009
