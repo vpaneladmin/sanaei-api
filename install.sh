@@ -32,9 +32,6 @@ echo "php artisan serve --host="$ip" --port=8009" >> vpanel.sh
 sudo cp vpanel.service /etc/systemd/system
 sudo cp vpanel.sh /usr/local/bin
 
-# Copy Files
-sudo cp -R api /var/www
-
 # Install Files
 cd /var/www/api
 php /usr/local/bin/composer install
