@@ -4,7 +4,6 @@
 sudo timedatectl set-timezone Asia/Tehran
 
 # Install PHP 8.2 and required extensions
-sudo apt update
 sudo apt install curl software-properties-common -y
 sudo add-apt-repository ppa:ondrej/php -y
 sudo apt update

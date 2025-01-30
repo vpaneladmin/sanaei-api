@@ -2,6 +2,12 @@
 Write based on Laravel & PHP. For modern "Sanaei" users.
 
 ## Auto Install
+1. Run `wget bash https://raw.githubusercontent.com/vpaneladmin/sanaei-api/refs/heads/main/auto.sh`
+2. Run `sudo bash auto.sh`
+3. Enter **IP Address**
+4. Enter `yes` to run **Composer Installer**
+5. Check server in `ipaddress:8009` is alive!
+
 
 ## Manual Install
 
