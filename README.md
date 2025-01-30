@@ -16,6 +16,9 @@ sudo bash auto.sh
 
 ## Manual Install
 1. Clone this repo or download latest release
+```
+git clone https://github.com/vpaneladmin/sanaei-api
+```
 2. Copy files to `/var/www` on Sanaei server
 3. Run this command
 ```
