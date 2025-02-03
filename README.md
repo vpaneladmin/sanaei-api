@@ -30,3 +30,10 @@ sudo bash install.sh
 
 ## License
 This repo is exclusive only for **VPanel** users.
+
+## Contact us
+Telegram Channel:
+https://t.me/Vpanell
+
+## Recommended version
+Its better to use V2.4.10
