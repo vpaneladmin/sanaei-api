@@ -36,4 +36,4 @@ Telegram Channel:
 https://t.me/Vpanell
 
 ## Recommended version
-Its better to use V2.4.10
+Its better to use 3x-ui V2.4.10
